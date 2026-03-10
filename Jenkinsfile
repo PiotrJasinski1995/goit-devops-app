@@ -48,7 +48,7 @@ spec:
     IMAGE_TAG    = "${BUILD_NUMBER}"
 
     CHARTS_REPO  = "https://github.com/PiotrJasinski1995/goit-devops-charts.git"
-    CHARTS_BRANCH = "lesson-8-9"
+    CHARTS_BRANCH = "final-project"
     CHARTS_FILE  = "charts/django-app/values.yaml"
 
     GIT_EMAIL    = "piotr.jasinski1995@gmail.com"
