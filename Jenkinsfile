@@ -5,7 +5,7 @@ pipeline {
 apiVersion: v1
 kind: Pod
 spec:
-  serviceAccountName: jenkins-sa
+  serviceAccountName: jenkins
   volumes:
     - name: docker-config
       emptyDir: {}
